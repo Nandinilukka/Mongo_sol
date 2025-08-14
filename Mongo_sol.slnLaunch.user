@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Mongo.Web\\Mongo.Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
