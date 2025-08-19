@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj": {}
+    "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj": {
+    "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
         "projectName": "Mango.Services.AuthAPI",
-        "projectPath": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
+        "projectPath": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
         "packagesPath": "C:\\Users\\LUNANDIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.Services.AuthAPI\\obj\\",
+        "outputPath": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

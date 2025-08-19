@@ -16,7 +16,7 @@ namespace Mongo.Web.Service
             _httpClientFactory = httpClientFactory;
             _tokenProvider = tokenProvider;
         }
-
+        
         public async Task<ResponseDTO?> SendAsync(RequestDTO requestDTO,bool withBearer = true)
         {
             try
