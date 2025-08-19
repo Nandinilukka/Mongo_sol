@@ -1,130 +1,274 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\",
+  "WorkspaceRootPath": "C:\\Users\\Mango_project\\Mongo_sol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\views\\coupon\\couponindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\coupon\\couponindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\views\\coupon\\coupondelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\coupon\\coupondelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\mongo.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\mongo.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\views\\coupon\\couponcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\coupon\\couponcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mango.services.couponapi\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mango.services.couponapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\views\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mango.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\models\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\models\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.productapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mango.services.authapi\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mango.services.authapi\\services\\iservices\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\services\\iservices\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\service\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\service\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\service\\iservice\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\service\\iservice\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.couponapi\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.couponapi\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.productapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\service\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\service\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\models\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\models\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\service\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\service\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mango.services.couponapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.productapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.productapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.productapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.couponapi\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.couponapi\\mango.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\mango.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\services\\iservices\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\services\\iservices\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mango.services.authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\migrations\\20250417045802_addnametoasp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\migrations\\20250417045802_addnametoasp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\views\\shared\\_validationscriptspartial - copy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\shared\\_validationscriptspartial - copy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\mongo.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\mongo.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\views\\coupon\\couponindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\coupon\\couponindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.couponapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\views\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\models\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\models\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\service\\iservice\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\service\\iservice\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.couponapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADB38DA5-F647-4DAC-9287-E55F390EEAFF}|Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\lunandin\\onedrive - capgemini\\desktop\\csharp\\mongo_sol\\mongo.web\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|c:\\users\\mango_project\\mongo_sol\\mongo.web\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CC4A74-7095-458A-AC5F-78F70E008CB7}|Mongo.Web\\Mongo.Web.csproj|solutionrelative:mongo.web\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\mango_project\\mongo_sol\\mango.services.productapi\\migrations\\20250814093322_producttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6A435F-6FF4-45C4-B9FA-8E06E60D43E0}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\migrations\\20250814093322_producttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,7 +278,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,268 +286,433 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Models\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Models\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Models\\ProductDTO.cs",
+              "RelativeToolTip": "Mongo.Web\\Models\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:44:33.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Mongo.Web\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Mongo.Web\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T06:12:13.045Z",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwFMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:19:39.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Mongo.Web\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Mongo.Web\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T06:12:09.818Z",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\ProductService.cs",
+              "RelativeToolTip": "Mongo.Web\\Service\\ProductService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswEEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:48:52.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Mongo.Web\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T06:12:05.764Z",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Mongo.Web\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:09:39.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "additional-methods.js",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "RelativeDocumentMoniker": "Mongo.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "RelativeToolTip": "Mongo.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-08-14T06:11:53.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Mongo.Web.csproj",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Mongo.Web.csproj",
-              "RelativeDocumentMoniker": "Mongo.Web\\Mongo.Web.csproj",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Mongo.Web.csproj",
-              "RelativeToolTip": "Mongo.Web\\Mongo.Web.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-05T04:59:04.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CouponCreate.cshtml",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "RelativeToolTip": "Mongo.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T05:41:28.295Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CouponIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\Coupon\\CouponIndex.cshtml",
-              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Coupon\\CouponIndex.cshtml",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\Coupon\\CouponIndex.cshtml",
-              "RelativeToolTip": "Mongo.Web\\Views\\Coupon\\CouponIndex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T05:16:33.611Z",
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Service\\BaseService.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\BaseService.cs",
+              "RelativeToolTip": "Mongo.Web\\Service\\BaseService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAYwF4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:31:27.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Mongo.Web\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Mongo.Web\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAARAAAAAAAAAA==",
+              "Title": "ProductEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Product\\ProductEdit.cshtml",
+              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Product\\ProductEdit.cshtml",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Product\\ProductEdit.cshtml",
+              "RelativeToolTip": "Mongo.Web\\Views\\Product\\ProductEdit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:54:38.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Utility\\SD.cs",
+              "RelativeToolTip": "Mongo.Web\\Utility\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T05:06:58.899Z"
+              "WhenOpened": "2025-04-23T05:43:05.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CouponDelete.cshtml",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\Coupon\\CouponDelete.cshtml",
-              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Coupon\\CouponDelete.cshtml",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\Coupon\\CouponDelete.cshtml",
-              "RelativeToolTip": "Mongo.Web\\Views\\Coupon\\CouponDelete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T05:16:06.017Z"
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:44:19.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\Models\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Models\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\Models\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\Models\\DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:52:03.609Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ProductDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Product\\ProductDelete.cshtml",
+              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Product\\ProductDelete.cshtml",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Product\\ProductDelete.cshtml",
+              "RelativeToolTip": "Mongo.Web\\Views\\Product\\ProductDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:51:45.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Product\\ProductIndex.cshtml",
+              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Product\\ProductIndex.cshtml",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Product\\ProductIndex.cshtml",
+              "RelativeToolTip": "Mongo.Web\\Views\\Product\\ProductIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:15:28.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Models\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Models\\ResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Models\\ResponseDTO.cs",
+              "RelativeToolTip": "Mongo.Web\\Models\\ResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:49:58.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\DTO\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "Mango.services.CouponAPI\\DTO\\ResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\DTO\\ResponseDTO.cs",
+              "RelativeToolTip": "Mango.services.CouponAPI\\DTO\\ResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:40:19.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CouponDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\DTO\\CouponDTO.cs",
+              "RelativeDocumentMoniker": "Mango.services.CouponAPI\\DTO\\CouponDTO.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\DTO\\CouponDTO.cs",
+              "RelativeToolTip": "Mango.services.CouponAPI\\DTO\\CouponDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:40:24.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\Models\\DTO\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Models\\DTO\\ResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\Models\\DTO\\ResponseDTO.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\Models\\DTO\\ResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:41:05.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\TokenProvider.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Service\\TokenProvider.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\TokenProvider.cs",
+              "RelativeToolTip": "Mongo.Web\\Service\\TokenProvider.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:47:16.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Models\\RequestDTO.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Models\\RequestDTO.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Models\\RequestDTO.cs",
+              "RelativeToolTip": "Mongo.Web\\Models\\RequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:03:03.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\IService\\IProductService.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Service\\IService\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\IService\\IProductService.cs",
+              "RelativeToolTip": "Mongo.Web\\Service\\IService\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:40:01.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Mongo.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T15:57:32.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.services.CouponAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Program.cs",
+              "RelativeToolTip": "Mongo.Web\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T06:34:49.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Mongo.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\appsettings.json",
+              "RelativeToolTip": "Mongo.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T05:19:31.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\MappingConfig.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:40:02.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WebApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:09:30.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:00:24.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Product\\ProductCreate.cshtml",
+              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Product\\ProductCreate.cshtml",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Product\\ProductCreate.cshtml",
+              "RelativeToolTip": "Mongo.Web\\Views\\Product\\ProductCreate.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:50:31.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\Program.cs",
               "RelativeDocumentMoniker": "Mango.services.CouponAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.services.CouponAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\Program.cs",
               "RelativeToolTip": "Mango.services.CouponAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T05:23:07.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
+              "Title": "AuthAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:34:50.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "CouponController.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.services.CouponAPI\\Controllers\\CouponController.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\Controllers\\CouponController.cs",
               "RelativeDocumentMoniker": "Mango.services.CouponAPI\\Controllers\\CouponController.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.services.CouponAPI\\Controllers\\CouponController.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\Controllers\\CouponController.cs",
               "RelativeToolTip": "Mango.services.CouponAPI\\Controllers\\CouponController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T10:22:18.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WebApplicationBuilderExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "RelativeDocumentMoniker": "Mango.services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "RelativeToolTip": "Mango.services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 36,
+              "Title": "RegistrationRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Models\\DTO\\RegistrationRequestDTO.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Models\\DTO\\RegistrationRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Models\\DTO\\RegistrationRequestDTO.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Models\\DTO\\RegistrationRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T04:44:38.638Z"
+              "WhenOpened": "2025-08-18T05:45:10.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Mongo.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T15:57:32.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\AuthService.cs",
-              "RelativeDocumentMoniker": "Mongo.Web\\Views\\AuthService.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\AuthService.cs",
-              "RelativeToolTip": "Mongo.Web\\Views\\AuthService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 29,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Mongo.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T05:32:52.297Z"
+              "WhenOpened": "2025-05-02T05:06:58.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.services.CouponAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Mango.services.CouponAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.services.CouponAPI\\appsettings.json",
-              "RelativeToolTip": "Mango.services.CouponAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-23T05:22:37.672Z"
+              "DocumentIndex": 28,
+              "Title": "Mango.services.CouponAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj",
+              "RelativeDocumentMoniker": "Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj",
+              "RelativeToolTip": "Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T08:56:30.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BaseService.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Service\\BaseService.cs",
-              "RelativeDocumentMoniker": "Mongo.Web\\Service\\BaseService.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Service\\BaseService.cs",
-              "RelativeToolTip": "Mongo.Web\\Service\\BaseService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAARAAAAAAAAAA==",
+              "DocumentIndex": 35,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Models\\DTO\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Models\\DTO\\ResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Models\\DTO\\ResponseDTO.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Models\\DTO\\ResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T04:31:27.512Z"
+              "WhenOpened": "2025-08-18T05:45:18.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IBaseService.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Service\\IService\\IBaseService.cs",
-              "RelativeDocumentMoniker": "Mongo.Web\\Service\\IService\\IBaseService.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Service\\IService\\IBaseService.cs",
-              "RelativeToolTip": "Mongo.Web\\Service\\IService\\IBaseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T04:29:32.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "Mongo.Web\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T11:29:01.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LoginRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Models\\LoginRequestDTO.cs",
-              "RelativeDocumentMoniker": "Mongo.Web\\Models\\LoginRequestDTO.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Models\\LoginRequestDTO.cs",
-              "RelativeToolTip": "Mongo.Web\\Models\\LoginRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T06:49:52.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\Auth\\Register.cshtml",
-              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Auth\\Register.cshtml",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Views\\Auth\\Register.cshtml",
-              "RelativeToolTip": "Mongo.Web\\Views\\Auth\\Register.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T07:02:14.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "JwtTokenGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.Services.AuthAPI\\Services\\JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Services\\JwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Services\\JwtTokenGenerator.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.Services.AuthAPI\\Services\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Services\\JwtTokenGenerator.cs",
               "RelativeToolTip": "Mango.Services.AuthAPI\\Services\\JwtTokenGenerator.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwB4AAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T04:14:52.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "IJwtTokenGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.Services.AuthAPI\\Services\\IServices\\IJwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Services\\IServices\\IJwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Services\\IServices\\IJwtTokenGenerator.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.Services.AuthAPI\\Services\\IServices\\IJwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Services\\IServices\\IJwtTokenGenerator.cs",
               "RelativeToolTip": "Mango.Services.AuthAPI\\Services\\IServices\\IJwtTokenGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -411,23 +720,360 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TokenProvider.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Service\\TokenProvider.cs",
-              "RelativeDocumentMoniker": "Mongo.Web\\Service\\TokenProvider.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Service\\TokenProvider.cs",
-              "RelativeToolTip": "Mongo.Web\\Service\\TokenProvider.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAABLAAAAAAAAAA==",
+              "DocumentIndex": 32,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T06:47:16.45Z"
+              "WhenOpened": "2025-08-18T05:39:52.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 34,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Models\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Models\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Models\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Models\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:45:20.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:24:03.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Models\\DTO\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Models\\DTO\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Models\\DTO\\LoginResponseDTO.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Models\\DTO\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:45:06.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Models\\DTO\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Models\\DTO\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Models\\DTO\\LoginRequestDTO.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Models\\DTO\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:44:54.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Services\\IServices\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Services\\IServices\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Services\\IServices\\IAuthService.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Services\\IServices\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:39:28.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:37:45.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\appsettings.json",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T05:36:06.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250417045802_AddNameToASp.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Migrations\\20250417045802_AddNameToASp.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Migrations\\20250417045802_AddNameToASp.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Migrations\\20250417045802_AddNameToASp.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Migrations\\20250417045802_AddNameToASp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:34:40.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Program.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:19:43.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:24:36.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Mongo.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Mongo.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T06:12:09.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ValidationScriptsPartial - Copy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Shared\\_ValidationScriptsPartial - Copy.cshtml",
+              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Shared\\_ValidationScriptsPartial - Copy.cshtml",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Shared\\_ValidationScriptsPartial - Copy.cshtml",
+              "RelativeToolTip": "Mongo.Web\\Views\\Shared\\_ValidationScriptsPartial - Copy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:24:29.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Mongo.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:23:51.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Mongo.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Mongo.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T06:12:13.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CouponController.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Controllers\\CouponController.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Controllers\\CouponController.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Controllers\\CouponController.cs",
+              "RelativeToolTip": "Mongo.Web\\Controllers\\CouponController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:23:03.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ICouponService.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\IService\\ICouponService.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Service\\IService\\ICouponService.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\IService\\ICouponService.cs",
+              "RelativeToolTip": "Mongo.Web\\Service\\IService\\ICouponService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:40:21.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20250814093322_ProductTable.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\Migrations\\20250814093322_ProductTable.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Migrations\\20250814093322_ProductTable.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.ProductAPI\\Migrations\\20250814093322_ProductTable.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\Migrations\\20250814093322_ProductTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:33:23.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.services.CouponAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\appsettings.json",
+              "RelativeToolTip": "Mango.services.CouponAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T05:22:37.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Mongo.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T06:12:05.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "Mongo.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "Mongo.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-14T06:11:53.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Mongo.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Mongo.Web.csproj",
+              "RelativeDocumentMoniker": "Mongo.Web\\Mongo.Web.csproj",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Mongo.Web.csproj",
+              "RelativeToolTip": "Mongo.Web\\Mongo.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T04:59:04.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CouponIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Coupon\\CouponIndex.cshtml",
+              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Coupon\\CouponIndex.cshtml",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Coupon\\CouponIndex.cshtml",
+              "RelativeToolTip": "Mongo.Web\\Views\\Coupon\\CouponIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T05:16:33.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "WebApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Mango.services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "Mango.services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:44:38.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\AuthService.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Views\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\AuthService.cs",
+              "RelativeToolTip": "Mongo.Web\\Views\\AuthService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:32:52.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Service\\IService\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeToolTip": "Mongo.Web\\Service\\IService\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:29:32.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Mongo.Web\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T11:29:01.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Models\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "Mongo.Web\\Models\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Models\\LoginRequestDTO.cs",
+              "RelativeToolTip": "Mongo.Web\\Models\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:49:52.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Mongo.Web\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Mongo.Web\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T07:02:14.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
               "Title": "ITokenProvider.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Service\\IService\\ITokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\IService\\ITokenProvider.cs",
               "RelativeDocumentMoniker": "Mongo.Web\\Service\\IService\\ITokenProvider.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Service\\IService\\ITokenProvider.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\IService\\ITokenProvider.cs",
               "RelativeToolTip": "Mongo.Web\\Service\\IService\\ITokenProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -435,47 +1081,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SD.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Utility\\SD.cs",
-              "RelativeDocumentMoniker": "Mongo.Web\\Utility\\SD.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Utility\\SD.cs",
-              "RelativeToolTip": "Mongo.Web\\Utility\\SD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T05:43:05.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CouponController.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Controllers\\CouponController.cs",
-              "RelativeDocumentMoniker": "Mongo.Web\\Controllers\\CouponController.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Controllers\\CouponController.cs",
-              "RelativeToolTip": "Mongo.Web\\Controllers\\CouponController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T10:23:03.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "Mongo.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\appsettings.json",
-              "RelativeToolTip": "Mongo.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-23T05:19:31.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 63,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.services.CouponAPI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Mango.services.CouponAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.services.CouponAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.services.CouponAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "Mango.services.CouponAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -483,23 +1093,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.Services.AuthAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.Services.AuthAPI\\Program.cs",
-              "RelativeToolTip": "Mango.Services.AuthAPI\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T05:19:43.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 64,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.Services.AuthAPI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mango.Services.AuthAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mango.Services.AuthAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "Mango.Services.AuthAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -507,11 +1105,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 65,
               "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Service\\IService\\IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\IService\\IAuthService.cs",
               "RelativeDocumentMoniker": "Mongo.Web\\Service\\IService\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Desktop\\Csharp\\Mongo_sol\\Mongo.Web\\Service\\IService\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Mango_project\\Mongo_sol\\Mongo.Web\\Service\\IService\\IAuthService.cs",
               "RelativeToolTip": "Mongo.Web\\Service\\IService\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

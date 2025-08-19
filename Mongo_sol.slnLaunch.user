@@ -7,6 +7,10 @@
         "Action": "Start"
       },
       {
+        "Path": "Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
+        "Action": "Start"
+      },
+      {
         "Path": "Mongo.Web\\Mongo.Web.csproj",
         "Action": "Start"
       },
