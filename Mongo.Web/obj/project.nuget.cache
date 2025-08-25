@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SVV+P5qZ1VE=",
+  "dgSpecHash": "wLoCfVs+Q8o=",
   "success": true,
   "projectFilePath": "C:\\Users\\Mango project 2\\Mongo_sol\\Mongo.Web\\Mongo.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\LUNANDIN\\.nuget\\packages\\identitymodel\\6.1.0\\identitymodel.6.1.0.nupkg.sha512",
     "C:\\Users\\LUNANDIN\\.nuget\\packages\\microsoft.bcl.memory\\9.0.0\\microsoft.bcl.memory.9.0.0.nupkg.sha512",
     "C:\\Users\\LUNANDIN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\LUNANDIN\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
