@@ -1,5 +1,7 @@
 ﻿using System.Reflection.PortableExecutable;
+using System.Runtime.InteropServices;
 using AutoMapper;
+using Mango.ServiceBus;
 using Mango.services.ShoppingCartAPI.Data;
 using Mango.services.ShoppingCartAPI.DTO;
 using Mango.Services.ShoppingCartAPI.Models;
@@ -21,14 +23,19 @@ namespace Mango.Services.ShoppingCartAPI.Controllers
         private ApplicationDBContext _dbContext;
         private IProductService _productService;
         private ICouponService _couponService;
+        private IConfiguration _configuration;
+        private readonly IMessageBus _messageBus;
         private IMapper _mapper;
-        public CartAPIController(ApplicationDBContext dbContext, IMapper mapper, IProductService productService, ICouponService couponService)
+        public CartAPIController(ApplicationDBContext dbContext, IMapper mapper, IProductService productService, ICouponService couponService, IConfiguration configuration,IMessageBus messageBus)
         {
             _dbContext = dbContext;
             this._response = new ResponseDTO();
             _productService = productService;
             _mapper = mapper;
             _couponService = couponService;
+            _configuration = configuration;
+            _messageBus = messageBus;
+
         }
 
         [HttpGet("GetCart/{userId}")]
@@ -83,6 +90,29 @@ namespace Mango.Services.ShoppingCartAPI.Controllers
                 _response.Result = true;
             }
             catch(Exception ex)
+            {
+                _response.IsSuccess = false;
+                _response.Message = ex.ToString();
+            }
+            return _response;
+        }
+
+        [HttpPost("EmailShoppingCart")]
+        public async Task<ResponseDTO> EmailShoppingCart([FromBody] CartDTO cartdto)
+        {
+            try
+            {
+                //await _messageBus.PublishMessage(cartdto, _configuration.GetValue<string>("TopicAndQueueNames:EmailSoppingCartQueue"));
+
+                await _messageBus.PublishMessage(
+                    cartdto,
+                    "EmailShoppingCart", // connection key
+                    _configuration["TopicAndQueueNames:EmailSoppingCartQueue"] // topic/queue name
+                );
+
+                _response.Result = true;
+            }
+            catch (Exception ex)
             {
                 _response.IsSuccess = false;
                 _response.Message = ex.ToString();

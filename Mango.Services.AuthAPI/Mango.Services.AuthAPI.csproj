@@ -20,4 +20,8 @@
 
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Mango.ServiceBus\Mango.ServiceBus.csproj" />
+  </ItemGroup>
+
 </Project>

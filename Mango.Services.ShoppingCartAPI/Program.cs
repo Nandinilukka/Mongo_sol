@@ -11,6 +11,7 @@ using Mango.services.ShoppingCartAPI.Extensions;
 using Mango.Services.ShoppingCartAPI.Services.IServices;
 using Mango.Services.ShoppingCartAPI.Services;
 using Mango.Services.ShoppingCartAPI.Utility;
+using Mango.ServiceBus;
 
 namespace Mango.services.ProdcutAPI
 {
@@ -33,6 +34,7 @@ namespace Mango.services.ProdcutAPI
             builder.Services.AddHttpContextAccessor();
             builder.Services.AddScoped<BackendAuthenticationHttpClientHandler>();
             builder.Services.AddScoped<ICouponService, CouponService>();
+            builder.Services.AddScoped<IMessageBus, MessageBus>();
             builder.Services.AddHttpClient("Product", 
                 u => u.BaseAddress = new Uri(builder.Configuration["ServiceUrls:ProductAPI"])).AddHttpMessageHandler<BackendAuthenticationHttpClientHandler>();
             builder.Services.AddHttpClient("Coupon",

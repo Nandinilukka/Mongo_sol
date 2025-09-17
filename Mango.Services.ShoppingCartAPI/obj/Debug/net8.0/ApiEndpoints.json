@@ -53,6 +53,32 @@
   },
   {
     "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartAPIController",
+    "Method": "EmailShoppingCart",
+    "RelativePath": "api/Cart/EmailShoppingCart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartdto",
+        "Type": "Mango.Services.ShoppingCartAPI.Models.DTO.CartDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mango.services.ShoppingCartAPI.DTO.ResponseDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartAPIController",
     "Method": "GetCart",
     "RelativePath": "api/Cart/GetCart/{userId}",
     "HttpMethod": "GET",
