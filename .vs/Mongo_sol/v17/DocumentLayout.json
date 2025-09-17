@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Mango_project3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3DA6F040-EBAF-4BF6-9279-DF6FFFA3C593}|Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj|c:\\users\\mango_project3\\mango.services.ortderapi\\mango.services.orderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DA6F040-EBAF-4BF6-9279-DF6FFFA3C593}|Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.ortderapi\\mango.services.orderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\mango_project3\\mango.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{071A7420-42AD-4917-9F37-E249023314BE}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -259,10 +263,6 @@
       "RelativeMoniker": "D:0:0:{C28FD5FA-03B3-4D04-A08C-227627B8EB4D}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\models\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA6F040-EBAF-4BF6-9279-DF6FFFA3C593}|Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj|c:\\users\\mango_project3\\mango.services.ortderapi\\mango.services.orderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3DA6F040-EBAF-4BF6-9279-DF6FFFA3C593}|Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.ortderapi\\mango.services.orderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DA6F040-EBAF-4BF6-9279-DF6FFFA3C593}|Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj|c:\\users\\mango_project3\\mango.services.ortderapi\\mango.services.orderapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{3DA6F040-EBAF-4BF6-9279-DF6FFFA3C593}|Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.ortderapi\\mango.services.orderapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
@@ -334,7 +334,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -342,19 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CartAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
-              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
-              "ToolTip": "C:\\Users\\Mango_project3\\Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
-              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAgwHMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T07:03:37.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MessageBus.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.ServiceBus\\MessageBus.cs",
               "RelativeDocumentMoniker": "Mango.ServiceBus\\MessageBus.cs",
@@ -366,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ShoppingCartAPI\\appsettings.json",
               "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\appsettings.json",
@@ -378,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.AuthAPI\\appsettings.json",
               "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\appsettings.json",
@@ -391,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AuthAPIController.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
               "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
@@ -403,7 +391,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Mango.Services.OrderAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
+              "RelativeDocumentMoniker": "Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
+              "ToolTip": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
+              "RelativeToolTip": "Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-26T07:06:38.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ToolTip": "C:\\Users\\Mango_project3\\Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwHMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T07:03:37.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IMessageBus.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.ServiceBus\\IMessageBus.cs",
               "RelativeDocumentMoniker": "Mango.ServiceBus\\IMessageBus.cs",
@@ -415,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ShoppingCartAPI\\Program.cs",
               "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Program.cs",
@@ -427,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.AuthAPI\\Program.cs",
               "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Program.cs",
@@ -439,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CouponController.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.services.CouponAPI\\Controllers\\CouponController.cs",
               "RelativeDocumentMoniker": "Mango.services.CouponAPI\\Controllers\\CouponController.cs",
@@ -451,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Mango.services.CouponAPI.csproj",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj",
               "RelativeDocumentMoniker": "Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj",
@@ -459,11 +472,12 @@
               "RelativeToolTip": "Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-28T10:56:03.778Z"
+              "WhenOpened": "2025-08-28T10:56:03.778Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.EmailAPI\\appsettings.json",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\appsettings.json",
@@ -475,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.EmailAPI\\Program.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Program.cs",
@@ -487,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CartService.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mongo.Web\\Service\\CartService.cs",
               "RelativeDocumentMoniker": "Mongo.Web\\Service\\CartService.cs",
@@ -499,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "BaseService.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mongo.Web\\Service\\BaseService.cs",
               "RelativeDocumentMoniker": "Mongo.Web\\Service\\BaseService.cs",
@@ -511,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Mango.Services.EmailAPI.csproj",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
@@ -519,11 +533,12 @@
               "RelativeToolTip": "Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-27T09:20:55.021Z"
+              "WhenOpened": "2025-08-27T09:20:55.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.EmailAPI\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Services\\EmailService.cs",
@@ -535,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AzureServiceBusConsumer.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.EmailAPI\\Messaging\\AzureServiceBusConsumer.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Messaging\\AzureServiceBusConsumer.cs",
@@ -547,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.EmailAPI\\Data\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Data\\ApplicationDBContext.cs",
@@ -559,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mongo.Web\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "Mongo.Web\\Controllers\\CartController.cs",
@@ -571,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.EmailAPI\\Services\\IEmailService.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Services\\IEmailService.cs",
@@ -583,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IAzureServiceBusConsumer.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.EmailAPI\\Messaging\\IAzureServiceBusConsumer.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Messaging\\IAzureServiceBusConsumer.cs",
@@ -595,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ApplicationBuilderExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.EmailAPI\\Extensions\\ApplicationBuilderExtensions.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Extensions\\ApplicationBuilderExtensions.cs",
@@ -607,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "CartHeaderDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mongo.Web\\Models\\CartHeaderDTO.cs",
               "RelativeDocumentMoniker": "Mongo.Web\\Models\\CartHeaderDTO.cs",
@@ -619,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.EmailAPI\\Models\\DTO\\ProductDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Models\\DTO\\ProductDTO.cs",
@@ -643,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "CartDetailsDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.EmailAPI\\Models\\DTO\\CartDetailsDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Models\\DTO\\CartDetailsDTO.cs",
@@ -655,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "CartDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.EmailAPI\\Models\\DTO\\CartDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Models\\DTO\\CartDTO.cs",
@@ -667,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "CartHeaderDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.EmailAPI\\Models\\DTO\\CartHeaderDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Models\\DTO\\CartHeaderDTO.cs",
@@ -679,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "CartDetailsDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mongo.Web\\Models\\CartDetailsDTO.cs",
               "RelativeDocumentMoniker": "Mongo.Web\\Models\\CartDetailsDTO.cs",
@@ -691,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ProductAPI\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\WeatherForecast.cs",
@@ -703,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "20250827094036_AddEmailTable.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.services.CouponAPI\\Migrations\\20250827094036_AddEmailTable.cs",
               "RelativeDocumentMoniker": "Mango.services.CouponAPI\\Migrations\\20250827094036_AddEmailTable.cs",
@@ -715,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ProductAPI\\Program.cs",
               "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Program.cs",
@@ -727,7 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Mango.Services.ShoppingCartAPI.csproj",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
               "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
@@ -735,11 +750,12 @@
               "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-22T10:16:35.473Z"
+              "WhenOpened": "2025-08-22T10:16:35.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "EmailLogger.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.EmailAPI\\Models\\EmailLogger.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Models\\EmailLogger.cs",
@@ -751,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ProductAPI\\Data\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Data\\ApplicationDBContext.cs",
@@ -763,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ProductAPI\\appsettings.json",
               "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\appsettings.json",
@@ -775,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Mango.ServiceBus.csproj",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.ServiceBus\\Mango.ServiceBus.csproj",
               "RelativeDocumentMoniker": "Mango.ServiceBus\\Mango.ServiceBus.csproj",
@@ -783,11 +799,12 @@
               "RelativeToolTip": "Mango.ServiceBus\\Mango.ServiceBus.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-27T06:37:54.012Z"
+              "WhenOpened": "2025-08-27T06:37:54.012Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "CartHeaderDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ShoppingCartAPI\\Models\\DTO\\CartHeaderDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Models\\DTO\\CartHeaderDTO.cs",
@@ -799,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "CartHeaderDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Models\\DTO\\CartHeaderDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrtderAPI\\Models\\DTO\\CartHeaderDTO.cs",
@@ -811,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "CartDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mongo.Web\\Models\\CartDTO.cs",
               "RelativeDocumentMoniker": "Mongo.Web\\Models\\CartDTO.cs",
@@ -823,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "CartIndex.cshtml",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mongo.Web\\Views\\Cart\\CartIndex.cshtml",
               "RelativeDocumentMoniker": "Mongo.Web\\Views\\Cart\\CartIndex.cshtml",
@@ -835,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "ICartService .cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mongo.Web\\Service\\IService\\ICartService .cs",
               "RelativeDocumentMoniker": "Mongo.Web\\Service\\IService\\ICartService .cs",
@@ -847,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ProductAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Properties\\launchSettings.json",
@@ -859,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "Mango.Services.ProductAPI.http",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.http",
               "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Mango.Services.ProductAPI.http",
@@ -871,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ProductAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\appsettings.Development.json",
@@ -883,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "SD.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mongo.Web\\Utility\\SD.cs",
               "RelativeDocumentMoniker": "Mongo.Web\\Utility\\SD.cs",
@@ -895,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mongo.Web\\Program.cs",
               "RelativeDocumentMoniker": "Mongo.Web\\Program.cs",
@@ -907,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mongo.Web\\appsettings.json",
               "RelativeDocumentMoniker": "Mongo.Web\\appsettings.json",
@@ -919,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "OrderDetailsDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Models\\DTO\\OrderDetailsDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrtderAPI\\Models\\DTO\\OrderDetailsDTO.cs",
@@ -931,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.services.CouponAPI\\Program.cs",
               "RelativeDocumentMoniker": "Mango.services.CouponAPI\\Program.cs",
@@ -943,7 +960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.services.CouponAPI\\appsettings.json",
               "RelativeDocumentMoniker": "Mango.services.CouponAPI\\appsettings.json",
@@ -955,7 +972,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Program.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrtderAPI\\Program.cs",
@@ -967,7 +984,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "IBaseService.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mongo.Web\\Service\\IService\\IBaseService.cs",
               "RelativeDocumentMoniker": "Mongo.Web\\Service\\IService\\IBaseService.cs",
@@ -979,7 +996,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "BackendAuthenticationHttpClientHandler.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ShoppingCartAPI\\Utility\\BackendAuthenticationHttpClientHandler.cs",
               "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Utility\\BackendAuthenticationHttpClientHandler.cs",
@@ -991,7 +1008,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "MappingConfig.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ShoppingCartAPI\\MappingConfig.cs",
               "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\MappingConfig.cs",
@@ -1003,7 +1020,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "OrderHeaderDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Models\\DTO\\OrderHeaderDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrtderAPI\\Models\\DTO\\OrderHeaderDTO.cs",
@@ -1015,7 +1032,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "OrderDetails.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Models\\OrderDetails.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrtderAPI\\Models\\OrderDetails.cs",
@@ -1027,7 +1044,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "ResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Models\\DTO\\ResponseDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrtderAPI\\Models\\DTO\\ResponseDTO.cs",
@@ -1039,7 +1056,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "OrderHeader.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Models\\OrderHeader.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrtderAPI\\Models\\OrderHeader.cs",
@@ -1051,7 +1068,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Models\\DTO\\ProductDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrtderAPI\\Models\\DTO\\ProductDTO.cs",
@@ -1075,7 +1092,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "CartDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Models\\DTO\\CartDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrtderAPI\\Models\\DTO\\CartDTO.cs",
@@ -1087,7 +1104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ShoppingCartAPI\\Models\\DTO\\ProductDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Models\\DTO\\ProductDTO.cs",
@@ -1099,7 +1116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "ResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ShoppingCartAPI\\Models\\DTO\\ResponseDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Models\\DTO\\ResponseDTO.cs",
@@ -1111,7 +1128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "CartDetailsDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ShoppingCartAPI\\Models\\DTO\\CartDetailsDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Models\\DTO\\CartDetailsDTO.cs",
@@ -1123,7 +1140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "CartDTO.cs",
               "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.ShoppingCartAPI\\Models\\DTO\\CartDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Models\\DTO\\CartDTO.cs",
@@ -1142,19 +1159,8 @@
               "ToolTip": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
               "RelativeToolTip": "Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-26T07:10:25.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "Mango.Services.OrderAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
-              "RelativeDocumentMoniker": "Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
-              "ToolTip": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
-              "RelativeToolTip": "Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-26T07:06:38.304Z"
+              "WhenOpened": "2025-08-26T07:10:25.566Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
