@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mango_project3\\Mango.ServiceBus\\Mango.ServiceBus.csproj": {}
+    "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.ServiceBus\\Mango.ServiceBus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mango_project3\\Mango.ServiceBus\\Mango.ServiceBus.csproj": {
+    "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.ServiceBus\\Mango.ServiceBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mango_project3\\Mango.ServiceBus\\Mango.ServiceBus.csproj",
+        "projectUniqueName": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.ServiceBus\\Mango.ServiceBus.csproj",
         "projectName": "Mango.ServiceBus",
-        "projectPath": "C:\\Users\\Mango_project3\\Mango.ServiceBus\\Mango.ServiceBus.csproj",
+        "projectPath": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.ServiceBus\\Mango.ServiceBus.csproj",
         "packagesPath": "C:\\Users\\LUNANDIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mango_project3\\Mango.ServiceBus\\obj\\",
+        "outputPath": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.ServiceBus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

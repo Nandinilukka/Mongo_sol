@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj": {}
+    "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj": {
+    "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
+        "projectUniqueName": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
         "projectName": "Mango.Services.OrderAPI",
-        "projectPath": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
+        "projectPath": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
         "packagesPath": "C:\\Users\\LUNANDIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mango_project3\\Mango.Services.OrtderAPI\\obj\\",
+        "outputPath": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.Services.OrtderAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
