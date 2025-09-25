@@ -22,6 +22,17 @@ namespace Mongo.Web.Service
                 Url = SD.ShoppingCartAPIBase + "/api/Cart/ApplyCoupon"
             });
         }
+
+        public async Task<ResponseDTO?> EmailCart(CartDTO cartDTO)
+        {
+            return await _baseService.SendAsync(new RequestDTO()
+            {
+                ApiType = SD.ApiType.POST,
+                Data = cartDTO,
+                Url = SD.ShoppingCartAPIBase + "/api/Cart/EmailShoppingCart"
+            });
+        }
+
         public async Task<ResponseDTO?> GetCartByUserIdAsync(string userId)
         {
             return await _baseService.SendAsync(new RequestDTO()

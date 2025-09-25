@@ -1,4 +1,5 @@
-﻿using Mango.services.AuthAPI.Models.DTO;
+﻿using Mango.ServiceBus;
+using Mango.services.AuthAPI.Models.DTO;
 using Mango.Services.AuthAPI.Models.DTO;
 using Mango.Services.AuthAPI.Services.IServices;
 using Microsoft.AspNetCore.Http;
@@ -14,10 +15,14 @@ namespace Mango.Services.AuthAPI.Controllers
     {
         private readonly IAuthService _authService;
         protected ResponseDTO _response;
-        public AuthAPIController(IAuthService authService)
+        private readonly IMessageBus _messageBus;
+        private readonly IConfiguration _configuration;
+        public AuthAPIController(IAuthService authService, IConfiguration configuration,IMessageBus messageBus)
         {
             _authService = authService;
             _response = new();
+            _configuration = configuration;
+            _messageBus = messageBus;
         }
 
         [HttpPost("register")]
@@ -30,8 +35,29 @@ namespace Mango.Services.AuthAPI.Controllers
                 _response.Message = errormessage;
                 return BadRequest(_response);
             }
+            //await _messageBus.PublishMessage(model.Email, _configuration.GetValue<string>("TopicAndQueueNames:RegisterUserQueue"));
+            //return Ok(_response);
+
+            try
+            {
+                //await _messageBus.PublishMessage(model.Email, _configuration.GetValue<string>("TopicAndQueueNames:RegisterUserQueue"));
+
+                await _messageBus.PublishMessage(
+                    model.Email,
+                    "RegisterUser", // connection key
+                    _configuration.GetValue<string>("TopicAndQueueNames:RegisterUserQueue") // topic/queue name
+                );
+
+            }
+            catch (Exception ex)
+            {
+                _response.IsSuccess = false;
+                _response.Message = $"Error publishing message: {ex.Message}";
+                return StatusCode(500, _response); // Return Internal Server Error with details
+            }
             return Ok(_response);
         }
+
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginRequestDTO model)
         {

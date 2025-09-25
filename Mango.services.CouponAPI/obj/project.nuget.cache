@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Hbndbf32PY=",
+  "dgSpecHash": "rMWIAz04u/k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mango project 2\\Mongo_sol\\Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj",
+  "projectFilePath": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.services.CouponAPI\\Mango.services.CouponAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LUNANDIN\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\LUNANDIN\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

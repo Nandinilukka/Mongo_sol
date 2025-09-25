@@ -19,6 +19,11 @@ namespace Mongo.Web.Controllers
         {
             return View(await LoadCartDtoBasedOnLoggedInUser());
         }
+        [Authorize]
+        public async Task<IActionResult> Checkout()
+        {
+            return View(await LoadCartDtoBasedOnLoggedInUser());
+        }
         public async Task<IActionResult> Remove(int cartDetailsId)
         {
             var userId = User.Claims.Where(u => u.Type == JwtRegisteredClaimNames.Sub)?.FirstOrDefault()?.Value;
@@ -43,9 +48,23 @@ namespace Mongo.Web.Controllers
                 return RedirectToAction(nameof(CartIndex));
             }
             return View();
-
-
         }
+
+        [HttpPost]
+        public async Task<IActionResult> EmailCart(CartDTO cartDTO)
+        {
+            CartDTO cart = await LoadCartDtoBasedOnLoggedInUser();
+            cart.CartHeader.Email = User.Claims.Where(u => u.Type == JwtRegisteredClaimNames.Email)?.FirstOrDefault()?.Value;
+            ResponseDTO? response = await _cartService.EmailCart(cart);
+            if (response != null && response.IsSuccess)
+            {
+                TempData["success"] = "Email is processed and send it shortly";
+                return RedirectToAction(nameof(CartIndex));
+            }
+            return View();
+        }
+
+
         public async Task<IActionResult> RemoveCoupon(CartDTO cartDTO)
         {
             cartDTO.CartHeader.CouponCode = "";

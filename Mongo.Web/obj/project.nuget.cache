@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wLoCfVs+Q8o=",
+  "dgSpecHash": "EGc0zf+kcSc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mango project 2\\Mongo_sol\\Mongo.Web\\Mongo.Web.csproj",
+  "projectFilePath": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mongo.Web\\Mongo.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LUNANDIN\\.nuget\\packages\\identitymodel\\6.1.0\\identitymodel.6.1.0.nupkg.sha512",
     "C:\\Users\\LUNANDIN\\.nuget\\packages\\microsoft.bcl.memory\\9.0.0\\microsoft.bcl.memory.9.0.0.nupkg.sha512",
