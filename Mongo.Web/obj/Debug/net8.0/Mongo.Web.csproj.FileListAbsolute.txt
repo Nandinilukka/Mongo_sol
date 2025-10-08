@@ -175,3 +175,44 @@ C:\Users\Mango_project3\Mongo.Web\obj\Debug\net8.0\refint\Mongo.Web.dll
 C:\Users\Mango_project3\Mongo.Web\obj\Debug\net8.0\Mongo.Web.pdb
 C:\Users\Mango_project3\Mongo.Web\obj\Debug\net8.0\Mongo.Web.genruntimeconfig.cache
 C:\Users\Mango_project3\Mongo.Web\obj\Debug\net8.0\ref\Mongo.Web.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\Mongo.Web.staticwebassets.runtime.json
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\Mongo.Web.exe
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\Mongo.Web.deps.json
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\Mongo.Web.runtimeconfig.json
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\Mongo.Web.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\Mongo.Web.pdb
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\Mongo.Web.csproj.AssemblyReference.cache
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\Mongo.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\Mongo.Web.AssemblyInfoInputs.cache
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\Mongo.Web.AssemblyInfo.cs
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\Mongo.Web.csproj.CoreCompileInputs.cache
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\Mongo.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\Mongo.Web.RazorAssemblyInfo.cache
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\Mongo.Web.RazorAssemblyInfo.cs
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\Mongo.Web.sourcelink.json
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\staticwebassets\msbuild.Mongo.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Mongo.Web.props
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mongo.Web.props
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mongo.Web.props
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\scopedcss\bundle\Mongo.Web.styles.css
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\scopedcss\projectbundle\Mongo.Web.bundle.scp.css
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\Mongo.Web.csproj.Up2Date
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\Mongo.Web.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\refint\Mongo.Web.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\Mongo.Web.pdb
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\Mongo.Web.genruntimeconfig.cache
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mongo.Web\obj\Debug\net8.0\ref\Mongo.Web.dll

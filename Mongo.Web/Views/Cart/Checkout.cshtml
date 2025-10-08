@@ -105,4 +105,80 @@
 </form>
 @section Scripts {
     <partial name="_ValidationScriptsPartial - Copy">
-    }
+    } 
+
+
+
+@* @using Mango.Web.Models
+@model CartDTO
+
+<form method="post">
+    <input asp-for="CartHeader.CartHeaderId" hidden />
+    <input asp-for="CartHeader.CouponCode" hidden />
+    <input asp-for="CartHeader.UserId" hidden />
+    <input asp-for="CartHeader.Discount" hidden />
+    <input asp-for="CartHeader.CartTotal" hidden />
+
+    <div class="container mt-4 p-4 border rounded shadow-sm">
+        <h2 class="text-warning mb-4">Order Summary</h2>
+
+        <a asp-action="CartIndex" class="btn btn-outline   <!-- User Info Section -->
+        <div class="mb-4">
+            <label class="form-label">Full Name</label>
+            <input asp-for="CartHeader.Name" placeholder="Full name..." class="form-control" />
+            <span asp-validation-for="CartHeader.Name" class="text-danger"></span>
+        </div>
+
+        <div class="mb-4">
+            <label class="form-label">Email</label>
+            <input asp-for="CartHeader.Email" placeholder="Email..." class="form-control" />
+        </div>
+
+        <div class="mb-4">
+            <label class="form-label">Phone Number</label>
+            <input asp-for="CartHeader.Phone" placeholder="Phone number..." class="form-control" />
+            <span asp-validation-for="CartHeader.Phone" class="text-danger"></span>
+        </div>
+
+        <div class="mb-4">
+            <label class="form-text text-muted">
+                Order will be ready in 30 minutes after placing the order. If placed when the restaurant is closed, it will be ready the next day.
+            </label>
+        </div>
+
+        <hr />
+
+        <!-- Cart Details Section -->
+        <div class="mb-4">
+            <h4 class="text-danger">Items in Your Cart</h4>
+            @foreach (var carobj in Model.CartDetails)
+            {
+                <div class="border rounded p-3 mb-3">
+                    <div><strong>Product:</strong> @carobj.Product.Name</div>
+                    <div><strong>Price:</strong> @carobj.Product.Price.ToString("c")</div>
+                    <div><strong>Quantity:</strong> @carobj.Count</div>
+                </div>
+            }
+        </div>
+
+        <!-- Totals -->
+        <div class="mb-4 text-center">
+            <h5 class="text-danger">Order Total: @Model.CartHeader.CartTotal.ToString("c")</h5>
+            @if (Model.CartHeader.Discount > 0)
+            {
+                <h6 class="text-success">Order Discount: @Model.CartHeader.Discount.ToString("c")</h6>
+            }
+        </div>
+
+        <!-- Submit Button -->
+        <div class="mb-4">
+            <button type="submit" class="btn btn-success w-100">
+                Place Order
+            </button>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial - Copy" />
+} *@

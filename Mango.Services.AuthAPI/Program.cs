@@ -49,7 +49,7 @@ namespace Mango.Services.AuthAPI
 
 
             app.MapControllers();
-            ApplyMigration(); //for applying migration automatically if there are any pending migrations
+            // ApplyMigration(); //for applying migration automatically if there are any pending migrations
             app.Run();
 
             void ApplyMigration()

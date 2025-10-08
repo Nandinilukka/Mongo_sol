@@ -74,7 +74,7 @@ namespace Mango.services.ProdcutAPI
             app.UseAuthorization();
 
             app.MapControllers();
-            ApplyMigration();
+            // ApplyMigration();
             app.Run();
 
             //if there are any pending migrations it automatically apply by below process
