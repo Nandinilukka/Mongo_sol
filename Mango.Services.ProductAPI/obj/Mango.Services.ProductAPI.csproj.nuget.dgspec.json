@@ -1,34 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj": {}
+    "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj": {
+    "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
+        "projectUniqueName": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
         "projectName": "Mango.Services.ProductAPI",
-        "projectPath": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
-        "packagesPath": "C:\\Users\\LUNANDIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUNANDIN\\OneDrive - Capgemini\\Mango_project3\\Mango.Services.ProductAPI\\obj\\",
+        "projectPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
+        "packagesPath": "C:\\Users\\lunandin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mango.Services.ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\LUNANDIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lunandin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://tbctdevops.jfrog.io/tbctdevops/api/nuget/v3/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -45,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -98,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
