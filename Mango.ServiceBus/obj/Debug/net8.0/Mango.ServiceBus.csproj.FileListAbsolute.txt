@@ -24,3 +24,16 @@ C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mango.Servic
 C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mango.ServiceBus\obj\Debug\net8.0\refint\Mango.ServiceBus.dll
 C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mango.ServiceBus\obj\Debug\net8.0\Mango.ServiceBus.pdb
 C:\Users\lunandin\OneDrive - Capgemini\Documents\Project3\Mongo_sol\Mango.ServiceBus\obj\Debug\net8.0\ref\Mango.ServiceBus.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project4\Mongo_sol\Mango.ServiceBus\bin\Debug\net8.0\Mango.ServiceBus.deps.json
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project4\Mongo_sol\Mango.ServiceBus\bin\Debug\net8.0\Mango.ServiceBus.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project4\Mongo_sol\Mango.ServiceBus\bin\Debug\net8.0\Mango.ServiceBus.pdb
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project4\Mongo_sol\Mango.ServiceBus\obj\Debug\net8.0\Mango.ServiceBus.csproj.AssemblyReference.cache
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project4\Mongo_sol\Mango.ServiceBus\obj\Debug\net8.0\Mango.ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project4\Mongo_sol\Mango.ServiceBus\obj\Debug\net8.0\Mango.ServiceBus.AssemblyInfoInputs.cache
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project4\Mongo_sol\Mango.ServiceBus\obj\Debug\net8.0\Mango.ServiceBus.AssemblyInfo.cs
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project4\Mongo_sol\Mango.ServiceBus\obj\Debug\net8.0\Mango.ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project4\Mongo_sol\Mango.ServiceBus\obj\Debug\net8.0\Mango.ServiceBus.sourcelink.json
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project4\Mongo_sol\Mango.ServiceBus\obj\Debug\net8.0\Mango.ServiceBus.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project4\Mongo_sol\Mango.ServiceBus\obj\Debug\net8.0\refint\Mango.ServiceBus.dll
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project4\Mongo_sol\Mango.ServiceBus\obj\Debug\net8.0\Mango.ServiceBus.pdb
+C:\Users\lunandin\OneDrive - Capgemini\Documents\Project4\Mongo_sol\Mango.ServiceBus\obj\Debug\net8.0\ref\Mango.ServiceBus.dll
