@@ -18,5 +18,8 @@
 	  <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.2" />
 	  <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Mango.ServiceBus\Mango.ServiceBus.csproj" />
+  </ItemGroup>
 
 </Project>

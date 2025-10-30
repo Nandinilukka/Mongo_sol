@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mongo.Web\\Mongo.Web.csproj": {}
+    "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mongo.Web\\Mongo.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mongo.Web\\Mongo.Web.csproj": {
+    "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mongo.Web\\Mongo.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mongo.Web\\Mongo.Web.csproj",
+        "projectUniqueName": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mongo.Web\\Mongo.Web.csproj",
         "projectName": "Mongo.Web",
-        "projectPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mongo.Web\\Mongo.Web.csproj",
+        "projectPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mongo.Web\\Mongo.Web.csproj",
         "packagesPath": "C:\\Users\\lunandin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mongo.Web\\obj\\",
+        "outputPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mongo.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lunandin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

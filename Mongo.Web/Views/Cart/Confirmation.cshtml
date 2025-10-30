@@ -1,0 +1,24 @@
+﻿@model int
+@* <div class="text-center">
+    <h3 class="display-4 text-success">Thank You for your Order!</h3>
+    <p class="lead">Your order has been successfully placed.</p>
+    <h4 class= "text-warning pb-3"> Order ID - @Model</h4>
+    <img src="/images/Order.jpg.png" width="60%"/>
+</div> *@
+
+<div class="container text-center mt-5">
+    <div class="card shadow-lg p-4 rounded">
+        <div class="card-body">
+            <h2 class="display-4 text-success mb-3">
+                <i class="bi bi-check-circle-fill"></i> Thank You for Your Order!
+            </h2>
+            <p class="lead text-muted mb-4">
+                Your order has been successfully placed. We appreciate your trust!
+            </p>
+            <h4 class="text-warning pb-3">
+                <strong>Order ID:</strong> @Model
+            </h4>
+            <img src="/images/Orders.png" alt="Order Confirmation" class="img-fluid" style="max-width: 60%;" />
+        </div>
+    </div>
+</div>

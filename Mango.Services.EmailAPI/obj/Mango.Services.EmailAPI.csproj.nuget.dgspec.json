@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj": {}
+    "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj": {
+    "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
+        "projectUniqueName": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
         "projectName": "Mango.Services.EmailAPI",
-        "projectPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
+        "projectPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
         "packagesPath": "C:\\Users\\lunandin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mango.Services.EmailAPI\\obj\\",
+        "outputPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mango.Services.EmailAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lunandin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -97,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

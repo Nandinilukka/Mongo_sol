@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NdyHUPE8m8c=",
+  "dgSpecHash": "bUkLUf9ozEA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project3\\Mongo_sol\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
+  "projectFilePath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lunandin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\lunandin\\.nuget\\packages\\azure.core\\1.46.2\\azure.core.1.46.2.nupkg.sha512",

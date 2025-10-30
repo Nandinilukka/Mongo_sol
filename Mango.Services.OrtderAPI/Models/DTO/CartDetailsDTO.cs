@@ -1,7 +1,7 @@
 ﻿namespace Mango.Services.OrtderAPI.Models.DTO;
     public class CartDetailsDTO
     {
-       
+        
         public int CartDetailsId { get; set; }
         public int CartHeaderId { get; set; }
         public CartHeaderDTO? CartHeader { get; set; }
