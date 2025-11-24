@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "su7vTDdvaog=",
+  "dgSpecHash": "ZKofkQ3RO/s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mango.ServiceBus\\Mango.ServiceBus.csproj",
+  "projectFilePath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project5\\Mongo_sol\\Mango.ServiceBus\\Mango.ServiceBus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lunandin\\.nuget\\packages\\azure.core\\1.46.2\\azure.core.1.46.2.nupkg.sha512",
     "C:\\Users\\lunandin\\.nuget\\packages\\azure.core.amqp\\1.3.1\\azure.core.amqp.1.3.1.nupkg.sha512",

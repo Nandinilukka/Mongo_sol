@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3fsHF+qv+3I=",
+  "dgSpecHash": "k7yiJG5QYgY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
+  "projectFilePath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project5\\Mongo_sol\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lunandin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\lunandin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

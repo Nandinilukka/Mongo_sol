@@ -1,4 +1,4 @@
-﻿@using Mango.Web.Models
+﻿@* @using Mango.Web.Models
 @model IEnumerable<ProductDTO>
 
 <form>
@@ -28,6 +28,71 @@
         </div>
         }
     </div>
+</form>  *@
+
+ 
+@* @using Mango.Web.Models
+@model IEnumerable<ProductDTO>
+
+<form>
+    <div class="container">
+        @foreach (var Product in Model)
+        {
+            <div class="card mb-4">
+                <div class="row g-0 align-items-center">
+                    <!-- Image Column -->
+                    <div class="col-md-4 text-center">
+                        <img src="@Product.ImageUrl" class="img-fluid rounded-start" style="max-height Column -->
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">@Product.Name</h5>
+                            <div class="d-flex justify-content-between mb-2">
+                                <span class="text-danger fw-bold" style="font-size: 18px;">
+                                    @string.Format("{0:c}", Product.Price)
+                                </span>
+                                <span class="badge bg-warning text-dark">@Product.CategoryName</span>
+                            </div>
+                            <p class="card-text">@Product.Description</p>
+                            <a asp-action="ProductDetails" asp-route-productId="@Product.ProductId" class="btn btn-primary">View Details</a>
+                              </div>
+                            </div>
+                </div>
+            </div>
+        }
+    </div>
+</form> *@
+
+
+@using Mango.Web.Models
+@model IEnumerable<ProductDTO>
+
+<form>
+    <div class="container">
+        @foreach (var Product in Model)
+        {
+            <div class="card mb-3 shadow-sm" style="max-width: 650px; margin: auto; border: 1px solid #ddd;">
+                <div class="row g-0">
+                    <!-- Image on the left -->
+                    <div class="col-3 d-flex align-items-center justify-content-center p-2" style="max-width: 130px;">
+                        <img src="@Product.ImageUrl" alt="@Product.Name"
+                             class="rounded"
+                             style="width: 120px; height: 120px; object-fit: cover;">
+                    </div>
+                    <div class="col">
+                        <div class="card-body p-2">
+                            <h5 class="card-title mb-2">@Product.Name</h5>
+                            <div class="d-flex justify-content-between mb-2">
+                                <span class="text-danger fw-bold" style="font-size: 16px;">
+                                  @Product.Price.ToString("C", new System.Globalization.CultureInfo("en-IN"))
+                                </span>
+                                <span class="badge bg-warning text-dark">@Product.CategoryName</span>
+                            </div>
+                            <p class="card-text mb-2" style="font-size: 14px;">@Product.Description</p>
+                            <a asp-action="ProductDetails" asp-route-productId="@Product.ProductId" class="btn btn-primary btn-sm">View Details</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
 </form>
-
-
