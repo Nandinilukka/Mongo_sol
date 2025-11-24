@@ -4038,11 +4038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
+      "projectUniqueName": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project5\\Mongo_sol\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
       "projectName": "Mango.Services.OrderAPI",
-      "projectPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
+      "projectPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project5\\Mongo_sol\\Mango.Services.OrtderAPI\\Mango.Services.OrderAPI.csproj",
       "packagesPath": "C:\\Users\\lunandin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mango.Services.OrtderAPI\\obj\\",
+      "outputPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project5\\Mongo_sol\\Mango.Services.OrtderAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lunandin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4057,8 +4057,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mango.ServiceBus\\Mango.ServiceBus.csproj": {
-              "projectPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mango.ServiceBus\\Mango.ServiceBus.csproj"
+            "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project5\\Mongo_sol\\Mango.ServiceBus\\Mango.ServiceBus.csproj": {
+              "projectPath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project5\\Mongo_sol\\Mango.ServiceBus\\Mango.ServiceBus.csproj"
             }
           }
         }
@@ -4128,7 +4128,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

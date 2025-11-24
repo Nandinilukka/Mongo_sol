@@ -46,7 +46,11 @@
                             <div style="font-size:11px;">@Html.Raw(cartobj.Product.Description)</div>
                         </div>
                         <div class="col-3 col-md-2 pt-md-4" style="font-size:11px;">
-                            <span style="font-size:17px;">@string.Format("{0:c}", cartobj.Product.Price) </span>
+                            @* <span style="font-size:17px;">@string.Format("{0:c}", cartobj.Product.Price) </span> *@
+                             
+                        <span style="font-size:17px;">
+                            @string.Format(new System.Globalization.CultureInfo("en-IN"), "{0:C}", cartobj.Product.Price)
+                        </span>
                         </div>
                         <div class="col-3 col-md-2 pt-md-4" style="font-size:11px;">
                             <span style="font-size:17px;"> @cartobj.Count</span>
@@ -76,10 +80,10 @@
                    
                     </div>
                     <div class="col-6 text-end">
-                        <span class="text-danger" style="font-size:21px;">  Order Total : @string.Format("{0:c}", Model.CartHeader.CartTotal) <br /></span>
+                        <span class="text-danger" style="font-size:21px;">  Order Total : @string.Format(new System.Globalization.CultureInfo("en-IN"), "{0:C}", Model.CartHeader.CartTotal) <br /></span>
                         @if (Model.CartHeader.Discount > 0)
                         {
-                            <span class="text-success"> Order Discount : @string.Format("{0:c}", Model.CartHeader.Discount)</span>
+                            <span class="text-success"> Order Discount : @string.Format(new System.Globalization.CultureInfo("en-IN"), "{0:C}", Model.CartHeader.Discount)</span>
                         }
                     </div>
                 </div>

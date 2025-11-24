@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P4cDrWzSopo=",
+  "dgSpecHash": "2sxng+xgJLc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project4\\Mongo_sol\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
+  "projectFilePath": "C:\\Users\\lunandin\\OneDrive - Capgemini\\Documents\\Project5\\Mongo_sol\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lunandin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\lunandin\\.nuget\\packages\\azure.core\\1.46.2\\azure.core.1.46.2.nupkg.sha512",
